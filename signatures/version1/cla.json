@@ -1,1 +1,12 @@
-{ "signedContributors": [] }
+{
+  "signedContributors": [
+    {
+      "name": "electrikjesus",
+      "id": 8572619,
+      "comment_id": 5372934092,
+      "created_at": "2026-08-21T17:08:31Z",
+      "repoId": 623259464,
+      "pullRequestNo": 1
+    }
+  ]
+}
